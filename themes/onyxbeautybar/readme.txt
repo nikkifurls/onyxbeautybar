@@ -1,4 +1,4 @@
-=== Twenty Twenty-Three ===
+=== Onyx Beauty Bar ===
 Contributors: wordpressdotorg
 Requires at least: 6.1
 Tested up to: 6.1
@@ -9,7 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Twenty Twenty-Three is designed to take advantage of the new design tools introduced in WordPress 6.1. With a clean, blank base as a starting point, this default theme includes ten diverse style variations created by members of the WordPress community.
+Onyx Beauty Bar is designed to take advantage of the new design tools introduced in WordPress 6.1. With a clean, blank base as a starting point, this default theme includes ten diverse style variations created by members of the WordPress community.
 
 Whether you want to build a complex or incredibly simple website, you can do it quickly and intuitively through the bundled styles or dive into creation and full customization yourself.
 
@@ -22,8 +22,8 @@ https://wordpress.org/support/article/twenty-twenty-three-changelog#Version_1.0
 
 == Copyright ==
 
-Twenty Twenty-Three WordPress Theme, (C) 2022-2023 WordPress.org
-Twenty Twenty-Three is distributed under the terms of the GNU GPL.
+Onyx Beauty Bar WordPress Theme, (C) 2022-2023 WordPress.org
+Onyx Beauty Bar is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
