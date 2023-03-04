@@ -493,25 +493,25 @@
 					"radius": "50px"
 				},
 				"color": {
-					"background": "var(--wp--preset--color--primary)",
+					"background": "var(--wp--preset--color--base)",
 					"text": "var(--wp--preset--color--contrast)"
 				},
 				":hover": {
 					"color": {
-						"background": "var(--wp--preset--color--contrast)",
-						"text": "var(--wp--preset--color--base)"
+						"background": "var(--wp--preset--color--primary)",
+						"text": "var(--wp--preset--color--contrast)"
 					}
 				},
 				":focus": {
 					"color": {
-						"background": "var(--wp--preset--color--contrast)",
-						"text": "var(--wp--preset--color--base)"
+						"background": "var(--wp--preset--color--primary)",
+						"text": "var(--wp--preset--color--contrast)"
 					}
 				},
 				":active": {
 					"color": {
-						"background": "var(--wp--preset--color--secondary)",
-						"text": "var(--wp--preset--color--base)"
+						"background": "var(--wp--preset--color--primary)",
+						"text": "var(--wp--preset--color--contrast)"
 					}
 				},
 				":visited": {
