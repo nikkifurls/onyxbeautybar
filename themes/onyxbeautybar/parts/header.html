@@ -1,10 +1,23 @@
 <!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group">
-	<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"flex","justifyContent":"space-between"}} -->
-	<div class="wp-block-group alignwide" style="padding-bottom:var(--wp--preset--spacing--40)">
-		<!-- wp:site-title {"level":0} /-->
-		<!-- wp:navigation {"layout":{"type":"flex","setCascadingProperties":true,"justifyContent":"right"}} /-->
-	</div>
+<div class="wp-block-group"><!-- wp:columns {"verticalAlignment":"center","isStackedOnMobile":false,"align":"full"} -->
+	<div class="wp-block-columns alignfull are-vertically-aligned-center is-not-stacked-on-mobile"><!-- wp:column {"verticalAlignment":"center"} -->
+	<div class="wp-block-column is-vertically-aligned-center"><!-- wp:site-logo {"width":80,"shouldSyncIcon":true} /--></div>
+	<!-- /wp:column -->
+	
+	<!-- wp:column {"verticalAlignment":"center"} -->
+	<div class="wp-block-column is-vertically-aligned-center"><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"right"}} -->
+	<div class="wp-block-buttons"><!-- wp:button -->
+	<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Call</a></div>
+	<!-- /wp:button -->
+	
+	<!-- wp:button -->
+	<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Email</a></div>
+	<!-- /wp:button -->
+	
+	<!-- wp:button -->
+	<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Facebook</a></div>
+	<!-- /wp:button --></div>
+	<!-- /wp:buttons --></div>
+	<!-- /wp:column --></div>
+	<!-- /wp:columns --></div>
 	<!-- /wp:group -->
-</div>
-<!-- /wp:group -->
