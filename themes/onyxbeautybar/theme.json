@@ -40,17 +40,17 @@
 					"slug": "contrast"
 				},
 				{
-					"color": "#9DFF20",
+					"color": "#5C6963",
 					"name": "Primary",
 					"slug": "primary"
 				},
 				{
-					"color": "#345C00",
+					"color": "#D4AF37",
 					"name": "Secondary",
 					"slug": "secondary"
 				},
 				{
-					"color": "#F6F6F6",
+					"color": "#353E3A",
 					"name": "Tertiary",
 					"slug": "tertiary"
 				}
@@ -596,7 +596,7 @@
 		"elements": {
 			"button": {
 				"border": {
-					"radius": "0"
+					"radius": "50px"
 				},
 				"color": {
 					"background": "var(--wp--preset--color--primary)",
